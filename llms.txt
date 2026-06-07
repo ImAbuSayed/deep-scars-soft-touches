@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-scars-soft-touches/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Deep Scars Soft Touches](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-scars-soft-touches/) |
+| **Get License** | [Commercial Licensing for Deep Scars Soft Touches](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-scars-soft-touches/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning every time you lean in close
+> There is a quiet rhythm in the way your shadow flows
+> I leave the windows open just to catch your midnight breath
+> You are the sweetest secret that I hold inside my chest
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `341b7411b06003519221b089e456618f9593b956451e669c3be1f6dcc175cad4` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
